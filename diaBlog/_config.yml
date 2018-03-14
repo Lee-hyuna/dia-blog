@@ -7,7 +7,7 @@ title: Writer, Javascript Blog
 subtitle: 
 description: Dia's Javascript blog
 author: Dia
-language: ko
+language: en
 timezone: Asia/Seoul
 
 # URL
@@ -78,4 +78,5 @@ theme: hueman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Lee-hyuna/diaJavascript.github.io
+  repo: https://github.com/Lee-hyuna/Lee-hyuna.github.io
+  branch: master
